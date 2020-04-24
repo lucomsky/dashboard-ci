@@ -1,2 +1,2 @@
-# dashboard-ci-dind
-Docker DIND image for CI
+# dashboard-ci
+Docker image for Gitlab CI
